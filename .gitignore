@@ -1,2 +1,5 @@
 .dotfile
 .DS_Store
+*.md
+# ignore_dir/
+*test.txt
